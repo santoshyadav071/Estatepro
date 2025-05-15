@@ -43,7 +43,7 @@ const Header = () => {
               to="/addproperty"
               className="text-gray-700 hover:text-indigo-600 font-medium transition-colors duration-200"
             >
-              List Property
+              Property
             </Link>
             <Link
               to="/propertymanagement"
