@@ -13,7 +13,7 @@ const HomeSection1 = () => {
   useEffect(() => {
     const fetchProperties = async () => {
       try {
-        const { data } = await axios.get('http://localhost:5000/api/properties');
+        const { data } = await axios.get('https://estatepro-1.onrender.com/api/properties');
         // Handle both response formats: direct array or { data: array }
         const propertiesData = Array.isArray(data) ? data : (data.data || []);
         setProperties(propertiesData);

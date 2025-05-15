@@ -5,21 +5,21 @@
       "name": "priya yadav",
       "role": "Founder & CEO",
       "bio": "20+ years in real estate development",
-      "img": "girl.jpeg"
+      "img": "/girl.jpeg"
     },
     {
       "id": 2,
       "name": "Amit Singh",
       "role": "Chief Operations",
       "bio": "Specializes in commercial properties",
-      "img": "men1.jpeg"
+      "img": "/men1.jpeg"
     },
     {
       "id": 3,
       "name": "Rajesh Sharma",
       "role": "Lead Agent",
       "bio": "Top performer for 5 consecutive years",
-      "img": "men2.jpeg"
+      "img": "/men2.jpeg"
     }
   ],
   "stats": [

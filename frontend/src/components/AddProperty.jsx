@@ -47,7 +47,7 @@ const AddProperty = () => {
     setMessage({ text: '', type: '' });
 
     try {
-      await axios.post('http://localhost:5000/api/properties', {
+      await axios.post('https://estatepro-1.onrender.com/api/properties', {
         ...formData,
         price: parseInt(formData.price),
         bedrooms: parseInt(formData.bedrooms),
