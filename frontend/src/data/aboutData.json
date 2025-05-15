@@ -1,0 +1,71 @@
+{
+  "teamMembers": [
+    {
+      "id": 1,
+      "name": "priya yadav",
+      "role": "Founder & CEO",
+      "bio": "20+ years in real estate development",
+      "img": "girl.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Amit Singh",
+      "role": "Chief Operations",
+      "bio": "Specializes in commercial properties",
+      "img": "men1.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh Sharma",
+      "role": "Lead Agent",
+      "bio": "Top performer for 5 consecutive years",
+      "img": "men2.jpeg"
+    }
+  ],
+  "stats": [
+    { "value": "10,000+", "label": "Properties Sold", "icon": "FaHome" },
+    { "value": "25+", "label": "Years Experience", "icon": "FaAward" },
+    { "value": "98%", "label": "Client Satisfaction", "icon": "FaHandshake" },
+    { "value": "50+", "label": "Team Members", "icon": "FaUsers" }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "quote": "Found my dream home in just 2 weeks! The team was incredibly professional.",
+      "author": "David Miller",
+      "role": "Homeowner"
+    },
+    {
+      "id": 2,
+      "quote": "As an investor, their market insights helped me make profitable decisions.",
+      "author": "Priya Patel",
+      "role": "Real Estate Investor"
+    }
+  ],
+  "companyInfo": {
+    "name": "Our Company",
+    "founded": 2005,
+    "mission": "We're redefining real estate through innovation, integrity, and exceptional service",
+    "story": {
+      "part1": "Founded in 2005, we began as a small team with a big vision: to transform the real estate experience. What started as a local brokerage has grown into a premier real estate services company serving clients nationwide.",
+      "part2": "Today, we combine cutting-edge technology with deep market knowledge to deliver results that exceed expectations. Our success is built on lasting relationships and a commitment to our clients' goals."
+    },
+    "values": [
+      {
+        "name": "Integrity",
+        "description": "We operate with honesty and transparency in all our dealings, building trust through ethical practices.",
+        "icon": "FaHandshake"
+      },
+      {
+        "name": "Expertise",
+        "description": "Our team brings deep market knowledge and analytical skills to deliver superior results.",
+        "icon": "FaChartLine"
+      },
+      {
+        "name": "Client Focus",
+        "description": "Every decision we make is guided by what's best for our clients' unique needs and goals.",
+        "icon": "FaUsers"
+      }
+    ]
+  }
+}

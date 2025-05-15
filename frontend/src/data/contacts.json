@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Rajesh Sharma",
+      "email": "rajesh678@gmail.com",
+      "phone": "9876543210",
+      "property": "Luxury Villa, Bangalore",
+      "status": "Interested",
+      "lastContact": "2023-05-15",
+      "profileImage": "/men2.jpeg" 
+    },
+    {
+      "name": "Priya yadav",
+      "email": "priya12@gmail.com",
+      "phone": "8765432109",
+      "property": "3BHK Apartment, Mumbai",
+      "status": "Follow-up",
+      "lastContact": "2023-05-10",
+      "profileImage": "/girl.jpeg"
+    },
+    {
+      "name": "Amit Singh",
+      "email": "amit7865@gmail.com",
+      "phone": "7654321098",
+      "property": "Plot in Hyderabad",
+      "status": "New Lead",
+      "lastContact": "2023-05-18",
+      "profileImage": "/men1.jpeg"
+    }
+  ]

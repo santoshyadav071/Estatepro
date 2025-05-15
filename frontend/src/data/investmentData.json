@@ -1,0 +1,73 @@
+{
+  "investmentOptions": [
+    {
+      "id": 1,
+      "title": "Residential Properties",
+      "description": "Invest in carefully selected residential properties with high rental yields and capital appreciation potential.",
+      "icon": "FaHome",
+      "benefits": ["Steady rental income", "Long-term appreciation", "Tax benefits"]
+    },
+    {
+      "id": 2,
+      "title": "Commercial Real Estate",
+      "description": "Premium office spaces and retail properties in growing business districts with stable tenant occupancy.",
+      "icon": "FaChartLine",
+      "benefits": ["Higher rental yields", "Longer lease terms", "Inflation hedge"]
+    },
+    {
+      "id": 3,
+      "title": "Land Banking",
+      "description": "Strategic land acquisitions in emerging growth corridors with planned infrastructure development.",
+      "icon": "FaMapMarkedAlt",
+      "benefits": ["Lower entry cost", "High appreciation potential", "Flexible exit options"]
+    }
+  ],
+  "marketTrends": [
+    {
+      "city": "Bangalore",
+      "yoyGrowth": "12%",
+      "rentalYield": "3.5%",
+      "priceRange": "₹80L - ₹2.5Cr"
+    },
+    {
+      "city": "Mumbai",
+      "yoyGrowth": "8%",
+      "rentalYield": "2.8%",
+      "priceRange": "₹1.5Cr - ₹10Cr+"
+    },
+    {
+      "city": "Hyderabad",
+      "yoyGrowth": "15%",
+      "rentalYield": "4.2%",
+      "priceRange": "₹50L - ₹2Cr"
+    },
+    {
+      "city": "Pune",
+      "yoyGrowth": "11%",
+      "rentalYield": "3.8%",
+      "priceRange": "₹60L - ₹2.2Cr"
+    }
+  ],
+  "experts": [
+    {
+      "id": 1,
+      "name": "Rahul Mehta",
+      "title": "Chief Investment Strategist",
+      "experience": "15+ years in real estate",
+      "specialty": "Commercial properties & REITs",
+      "contact": "rahul@estatepro.com",
+      "phone": "+91 98765 43210",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg "
+    },
+    {
+      "id": 2,
+      "name": "Priya Desai",
+      "title": "Residential Investment Advisor",
+      "experience": "10+ years in residential markets",
+      "specialty": "Luxury apartments & villas",
+      "contact": "priya@estatepro.com",
+      "phone": "+91 87654 32109",
+      "image": "https://randomuser.me/api/portraits/women/68.jpg "
+    }
+  ]
+}
